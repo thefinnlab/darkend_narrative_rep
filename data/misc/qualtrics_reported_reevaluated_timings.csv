@@ -1,0 +1,574 @@
+,Unnamed: 0,sub,source_column,index,reappraised_text,onset,offset,event_num,event_label,onsetSEC,offsetSEC,duration
+0,0,1,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+18,18,1,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+38,38,1,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+53,53,1,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+68,68,1,Q1_1.1,6,"Oh, I cannot wait to watch the game with you tonight. No, I know we're gonna win. No, I know it. I can make us those Frito chili nachos you like. Yeah, I know you like that.,",29.44,41.38,1,conversation_bf,29,41,12
+77,77,1,Q1_1.1,7,"Oh, I gotta go. Customer. I love you. No, I love you more. No, I love you more.,",42.28,48.32,1,conversation_bf,42,48,6
+84,84,1,Q1_1.1,9,"How can I help you today? Do you have an appointment with us, or are you just browsing?,",58.74,62.58,2,regular_convo,58,62,4
+85,85,1,Q1_1.1,11,"Browsing?,",64.64,65.08,2,regular_convo,64,65,1
+92,92,1,Q1_1.1,13,"You're in luck. We've extended our frequently formal club Signup bonus to the end of today.  You get 10% off your purchase. Except sale items.,",65.22,72.26,2,regular_convo,65,72,7
+93,93,1,Q1_1.1,15,"I'm just gonna sit down.,",72.32,73.84,2,regular_convo,72,73,1
+98,98,1,Q1_1.1,24,"My daughter,",90.44,91.2,2,regular_convo,90,91,1
+103,103,1,Q1_1.1,26,"And she'll be joining us today I take it.,",91.54,93.54,2,regular_convo,91,93,2
+104,104,1,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+114,114,1,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+131,131,1,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+161,161,1,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+176,176,1,Q1_1.1,42,"You'll have to pardon our dust, but just beyond that Sunglass kiosk-,",122.06,124.98,3,food_court,122,124,2
+184,184,1,Q1_1.1,44,"Sunglass kiosk… Don't you have some water and snacks here in the store?,",125.28,129.64,3,food_court,125,129,4
+212,212,1,Q1_1.1,53,"I am very thirsty and cranky.,",156.42,159.18,3,food_court,156,159,3
+221,221,1,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+232,232,1,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+248,248,1,Q1_1.1,63,"Yeah, they are remodeling. But Gino’s Pizzeria has these calzones-,",170.76,173.52,3,food_court,170,173,3
+255,255,1,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+286,286,1,Q2_1.1,4,"No, I'm sorry. I'm sorry, Lucy. It's been a crazy day. Like you said, shopping for a wedding dress…,",184.6,192.16,,,184,192,8
+292,292,1,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+308,308,1,Q2_1.1,17,"The wedding dress is for me.,",228.9,231.96,5,steve_skinny,228,231,3
+315,315,1,Q2_1.1,19,"For you?,",232.66,232.92,5,steve_skinny,232,232,0
+316,316,1,Q2_1.1,21,"Yes. Yes, I am the bride. I don't know if that's against your policy.,",233.12,237.9,5,steve_skinny,233,237,4
+395,395,1,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+426,426,1,Q2_1.1,53,"I don't know. He seems. I don't know, like he might be homeless or something. I mean, I hate to judge, but we're supposed to call if we see someone homeless.,",331.92,339.54,7,calls_security,331,339,8
+440,440,1,Q2_1.1,57,"Also, have you had any luck finding that dog that's loose in the mall?,",354.28,356.88,7,calls_security,354,356,2
+447,447,1,Q2_1.1,58,"Oh, my gosh. He’s stealing the water.",357.46,358.74,8,attack,357,358,1
+455,455,1,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+502,502,1,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+515,515,1,Q3_1.1,28,"I get it. No I get it. I do. I get it. You know what? Here? Have a water.,",416.58,421.74,9,resolution,416,421,5
+525,525,1,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+536,536,1,Q3_1.1,40,"Thank you. I'm sorry I didn't earlier. They us this policy of how many minutes and how big an  order until we give out the water…,",446.56,453.94,9,resolution,446,453,7
+539,539,1,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+556,556,1,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+573,573,1,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+599,599,1,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+1,1,2,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+19,19,2,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+39,39,2,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+54,54,2,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+132,132,2,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+233,233,2,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+256,256,2,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+321,321,2,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+341,341,2,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+379,379,2,Q2_1.1,46,"Oh, you're so sweet. I love this song.,",298.92,304.94,6,emergency_song,298,304,6
+386,386,2,Q2_1.1,48,"What song?,",305.76,306.24,6,emergency_song,305,306,1
+557,557,2,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+574,574,2,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+40,40,3,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+82,82,3,Q1_1.1,8,"Hello. Welcome to Bridal Innovations. Don't worry. That gets knocked over all the time.,",52.16,57.84,2,regular_convo,52,57,5
+105,105,3,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+115,115,3,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+133,133,3,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+185,185,3,Q1_1.1,44,"Sunglass kiosk… Don't you have some water and snacks here in the store?,",125.28,129.64,3,food_court,125,129,4
+342,342,3,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+456,456,3,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+503,503,3,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+2,2,4,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+234,234,4,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+504,504,4,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+20,20,5,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+55,55,5,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+94,94,5,Q1_1.1,15,"I'm just gonna sit down.,",72.32,73.84,2,regular_convo,72,73,1
+106,106,5,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+134,134,5,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+257,257,5,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+303,303,5,Q2_1.1,9,"Yes. Yes, she is on the way. Well, no, she's not on the way.,",212.22,217.94,5,steve_skinny,212,217,5
+322,322,5,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+343,343,5,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+396,396,5,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+427,427,5,Q2_1.1,53,"I don't know. He seems. I don't know, like he might be homeless or something. I mean, I hate to judge, but we're supposed to call if we see someone homeless.,",331.92,339.54,7,calls_security,331,339,8
+477,477,5,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+540,540,5,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+162,162,6,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+258,258,6,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+397,397,6,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+259,259,7,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+344,344,7,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+398,398,7,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+3,3,8,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+135,135,8,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+163,163,8,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+177,177,8,Q1_1.1,42,"You'll have to pardon our dust, but just beyond that Sunglass kiosk-,",122.06,124.98,3,food_court,122,124,2
+186,186,8,Q1_1.1,44,"Sunglass kiosk… Don't you have some water and snacks here in the store?,",125.28,129.64,3,food_court,125,129,4
+235,235,8,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+249,249,8,Q1_1.1,63,"Yeah, they are remodeling. But Gino’s Pizzeria has these calzones-,",170.76,173.52,3,food_court,170,173,3
+260,260,8,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+323,323,8,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+345,345,8,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+399,399,8,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+478,478,8,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+488,488,8,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+558,558,8,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+575,575,8,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+4,4,9,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+21,21,9,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+129,129,9,Q1_1.1,35,"Water. Of course, shopping can make you work up a thirst.,",110.62,113.28,3,food_court,110,113,3
+136,136,9,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+164,164,9,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+197,197,9,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+236,236,9,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+261,261,9,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+324,324,9,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+346,346,9,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+526,526,9,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+576,576,9,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+600,600,9,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+22,22,10,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+41,41,10,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+56,56,10,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+69,69,10,Q1_1.1,6,"Oh, I cannot wait to watch the game with you tonight. No, I know we're gonna win. No, I know it. I can make us those Frito chili nachos you like. Yeah, I know you like that.,",29.44,41.38,1,conversation_bf,29,42,13
+137,137,10,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+213,213,10,Q1_1.1,53,"I am very thirsty and cranky.,",156.42,159.18,3,food_court,156,159,3
+262,262,10,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+293,293,10,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+309,309,10,Q2_1.1,17,"The wedding dress is for me.,",228.9,231.96,5,steve_skinny,228,231,3
+325,325,10,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+347,347,10,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+400,400,10,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+577,577,10,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+5,5,11,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+23,23,11,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+42,42,11,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+263,263,11,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+326,326,11,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+348,348,11,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+380,380,11,Q2_1.1,46,"Oh, you're so sweet. I love this song.,",298.92,304.94,6,emergency_song,298,304,6
+401,401,11,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+419,419,11,Q2_1.1,51,"Okay, I'll pull together some options for you, and I will be right back.,",317.98,321.34,,,317,321,4
+469,469,11,Q3_1.1,6,"Jesus, you.,",364.16,364.4,8,attack,364,364,0
+474,474,11,Q3_1.1,16,"No, I'm not being nice. It just looks bad for customers walking by to see a man sitting on the floor.,",379.64,384.82,8,attack,379,384,5
+479,479,11,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+294,294,12,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+372,372,12,Q2_1.1,37,"So I'm going to recommend just a little lace in the shoulder and some structure around  the waist to enhance the hourglass effect. Not like a Civil War cotillion or anything, but just a little.,",273.48,282.68,5,steve_skinny,273,282,9
+381,381,12,Q2_1.1,46,"Oh, you're so sweet. I love this song.,",298.92,304.94,6,emergency_song,298,304,6
+387,387,12,Q2_1.1,48,"What song?,",305.76,306.24,6,emergency_song,305,306,1
+402,402,12,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+420,420,12,Q2_1.1,51,"Okay, I'll pull together some options for you, and I will be right back.,",317.98,321.34,,,317,321,4
+448,448,12,Q2_1.1,58,"Oh, my gosh. He’s stealing the water.",357.46,358.74,8,attack,357,358,1
+457,457,12,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+505,505,12,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+578,578,12,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+601,601,12,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+138,138,13,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+198,198,13,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+264,264,13,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+365,365,13,Q2_1.1,36,"Lift your arms up. You cut a very lean silhouette.,",270.74,273.38,5,steve_skinny,270,273,3
+422,422,13,Q2_1.1,52,"Hello? Security. This is Lucy again in Bridal Innovations. There's a customer here.,",326.7,331.28,7,calls_security,326,331,5
+471,471,13,Q3_1.1,10,"Okay, look, that's fine. That's fine. Look, I will just sit here and wait for security. I'll just sit right here on the floor.,",369.44,375.78,8,attack,369,375,6
+579,579,13,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+57,57,14,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+139,139,14,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+165,165,14,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+237,237,14,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+265,265,14,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+376,376,14,Q2_1.1,41,"At your feet apart. Shoulder width.,",288.54,289.44,,,288,289,1
+423,423,14,Q2_1.1,52,"Hello? Security. This is Lucy again in Bridal Innovations. There's a customer here.,",326.7,331.28,7,calls_security,326,331,5
+527,527,14,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+6,6,15,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+24,24,15,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+58,58,15,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+70,70,15,Q1_1.1,6,"Oh, I cannot wait to watch the game with you tonight. No, I know we're gonna win. No, I know it. I can make us those Frito chili nachos you like. Yeah, I know you like that.,",29.44,41.38,1,conversation_bf,29,43,14
+99,99,15,Q1_1.1,24,"My daughter,",90.44,91.2,2,regular_convo,90,91,1
+116,116,15,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+140,140,15,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+266,266,15,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+287,287,15,Q2_1.1,4,"No, I'm sorry. I'm sorry, Lucy. It's been a crazy day. Like you said, shopping for a wedding dress…,",184.6,192.16,,,184,192,8
+327,327,15,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+349,349,15,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+403,403,15,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+559,559,15,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+141,141,16,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+310,310,16,Q2_1.1,17,"The wedding dress is for me.,",228.9,231.96,5,steve_skinny,228,231,3
+404,404,16,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+458,458,16,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+475,475,16,Q3_1.1,16,"No, I'm not being nice. It just looks bad for customers walking by to see a man sitting on the floor.,",379.64,384.82,8,attack,379,384,5
+580,580,16,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+25,25,17,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+107,107,17,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+117,117,17,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+142,142,17,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+199,199,17,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+214,214,17,Q1_1.1,53,"I am very thirsty and cranky.,",156.42,159.18,3,food_court,156,159,3
+267,267,17,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+295,295,17,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+328,328,17,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+350,350,17,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+405,405,17,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+421,421,17,Q2_1.1,51,"Okay, I'll pull together some options for you, and I will be right back.,",317.98,321.34,,,317,321,4
+428,428,17,Q2_1.1,53,"I don't know. He seems. I don't know, like he might be homeless or something. I mean, I hate to judge, but we're supposed to call if we see someone homeless.,",331.92,339.54,7,calls_security,331,339,8
+506,506,17,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+581,581,17,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+602,602,17,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+7,7,19,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+26,26,19,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+43,43,19,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+59,59,19,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+143,143,19,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+158,158,19,Q1_1.1,40,"Well,,",120.78,120.84,3,food_court,120,120,0
+166,166,19,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+200,200,19,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+238,238,19,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+250,250,19,Q1_1.1,63,"Yeah, they are remodeling. But Gino’s Pizzeria has these calzones-,",170.76,173.52,3,food_court,170,173,3
+268,268,19,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+329,329,19,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+351,351,19,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+429,429,19,Q2_1.1,53,"I don't know. He seems. I don't know, like he might be homeless or something. I mean, I hate to judge, but we're supposed to call if we see someone homeless.,",331.92,339.54,7,calls_security,331,339,8
+459,459,19,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+489,489,19,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+582,582,19,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+603,603,19,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+27,27,20,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+60,60,20,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+71,71,20,Q1_1.1,6,"Oh, I cannot wait to watch the game with you tonight. No, I know we're gonna win. No, I know it. I can make us those Frito chili nachos you like. Yeah, I know you like that.,",29.44,41.38,1,conversation_bf,29,44,15
+86,86,20,Q1_1.1,11,"Browsing?,",64.64,65.08,2,regular_convo,64,65,1
+118,118,20,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+187,187,20,Q1_1.1,44,"Sunglass kiosk… Don't you have some water and snacks here in the store?,",125.28,129.64,3,food_court,125,129,4
+222,222,20,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+288,288,20,Q2_1.1,4,"No, I'm sorry. I'm sorry, Lucy. It's been a crazy day. Like you said, shopping for a wedding dress…,",184.6,192.16,,,184,192,8
+296,296,20,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+311,311,20,Q2_1.1,17,"The wedding dress is for me.,",228.9,231.96,5,steve_skinny,228,231,3
+388,388,20,Q2_1.1,48,"What song?,",305.76,306.24,6,emergency_song,305,306,1
+516,516,20,Q3_1.1,28,"I get it. No I get it. I do. I get it. You know what? Here? Have a water.,",416.58,421.74,9,resolution,416,421,5
+528,528,20,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+541,541,20,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+583,583,20,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+8,8,21,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+28,28,21,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+44,44,21,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+87,87,21,Q1_1.1,11,"Browsing?,",64.64,65.08,2,regular_convo,64,65,1
+95,95,21,Q1_1.1,15,"I'm just gonna sit down.,",72.32,73.84,2,regular_convo,72,73,1
+119,119,21,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+130,130,21,Q1_1.1,36,"Steve, we have a food court.  It's just that way into the right. And they have drinks there and there's a water fountain. It's by the bathroom.,",113.52,117.9,3,food_court,113,117,4
+144,144,21,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+167,167,21,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+178,178,21,Q1_1.1,42,"You'll have to pardon our dust, but just beyond that Sunglass kiosk-,",122.06,124.98,3,food_court,122,124,2
+201,201,21,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+223,223,21,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+239,239,21,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+269,269,21,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+352,352,21,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+366,366,21,Q2_1.1,36,"Lift your arms up. You cut a very lean silhouette.,",270.74,273.38,5,steve_skinny,270,273,3
+406,406,21,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+449,449,21,Q2_1.1,58,"Oh, my gosh. He’s stealing the water.",357.46,358.74,8,attack,357,358,1
+460,460,21,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+507,507,21,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+517,517,21,Q3_1.1,28,"I get it. No I get it. I do. I get it. You know what? Here? Have a water.,",416.58,421.74,9,resolution,416,421,5
+524,524,21,Q3_1.1,36,"And here's an energy bar.,",434.74,436.1,9,resolution,434,436,2
+529,529,21,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+560,560,21,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+569,569,21,Q3_1.1,52,"They'll show up. Don't be silly.,",479.52,480.74,10,resolution,479,480,1
+584,584,21,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+168,168,22,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+270,270,22,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+407,407,22,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+480,480,22,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+490,490,22,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+585,585,22,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+29,29,23,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+145,145,23,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+169,169,23,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+202,202,23,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+224,224,23,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+240,240,23,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+271,271,23,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+373,373,23,Q2_1.1,37,"So I'm going to recommend just a little lace in the shoulder and some structure around  the waist to enhance the hourglass effect. Not like a Civil War cotillion or anything, but just a little.,",273.48,282.68,5,steve_skinny,273,282,9
+382,382,23,Q2_1.1,46,"Oh, you're so sweet. I love this song.,",298.92,304.94,6,emergency_song,298,304,6
+481,481,23,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+491,491,23,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+586,586,23,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+9,9,24,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+30,30,24,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+45,45,24,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+61,61,24,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+97,97,24,Q1_1.1,17,"Oh, absolutely. Shopping can wear you out. I don't think people realize how hard it is. It's like a job, especially for a wedding, which is such an important occasion.,",73.96,83.12,2,regular_convo,73,83,10
+100,100,24,Q1_1.1,24,"My daughter,",90.44,91.2,2,regular_convo,90,91,1
+108,108,24,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+146,146,24,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+203,203,24,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+225,225,24,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+272,272,24,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+297,297,24,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+304,304,24,Q2_1.1,9,"Yes. Yes, she is on the way. Well, no, she's not on the way.,",212.22,217.94,5,steve_skinny,212,217,5
+319,319,24,Q2_1.1,23,"No, no, no, no, no. Of course it's allowed. Of course.  Of course, we get that all the time.  Nothing to be embarrassed about at all. This is your special day.,",237.9,245.3,5,steve_skinny,237,245,8
+353,353,24,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+389,389,24,Q2_1.1,48,"What song?,",305.76,306.24,6,emergency_song,305,306,1
+408,408,24,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+424,424,24,Q2_1.1,52,"Hello? Security. This is Lucy again in Bridal Innovations. There's a customer here.,",326.7,331.28,7,calls_security,326,331,5
+434,434,24,Q2_1.1,55,"He got really agitated when I wouldn't give him water, and he used foul language and, well, and now he wants me to get a wedding dress for him.,",342.18,348.98,7,calls_security,342,348,6
+441,441,24,Q2_1.1,57,"Also, have you had any luck finding that dog that's loose in the mall?,",354.28,356.88,7,calls_security,354,356,2
+461,461,24,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+482,482,24,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+492,492,24,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+508,508,24,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+542,542,24,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+561,561,24,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+587,587,24,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+241,241,25,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+317,317,25,Q2_1.1,21,"Yes. Yes, I am the bride. I don't know if that's against your policy.,",233.12,237.9,5,steve_skinny,233,237,4
+330,330,25,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+450,450,25,Q2_1.1,58,"Oh, my gosh. He’s stealing the water.",357.46,358.74,8,attack,357,358,1
+530,530,25,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+588,588,25,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+609,609,25,Q3_1.1,58,"Right. Okay. Lucy, I'm thinking of telling you a story while we're waiting for security.",497.94,507.68,10,resolution,497,507,10
+10,10,26,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+31,31,26,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+46,46,26,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+62,62,26,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+72,72,26,Q1_1.1,6,"Oh, I cannot wait to watch the game with you tonight. No, I know we're gonna win. No, I know it. I can make us those Frito chili nachos you like. Yeah, I know you like that.,",29.44,41.38,1,conversation_bf,29,45,16
+78,78,26,Q1_1.1,7,"Oh, I gotta go. Customer. I love you. No, I love you more. No, I love you more.,",42.28,48.32,1,conversation_bf,42,48,6
+88,88,26,Q1_1.1,11,"Browsing?,",64.64,65.08,2,regular_convo,64,65,1
+109,109,26,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+120,120,26,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+147,147,26,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+159,159,26,Q1_1.1,40,"Well,,",120.78,120.84,3,food_court,120,120,0
+170,170,26,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+179,179,26,Q1_1.1,42,"You'll have to pardon our dust, but just beyond that Sunglass kiosk-,",122.06,124.98,3,food_court,122,124,2
+188,188,26,Q1_1.1,44,"Sunglass kiosk… Don't you have some water and snacks here in the store?,",125.28,129.64,3,food_court,125,129,4
+193,193,26,Q1_1.1,46,"The water fountain is just a two minute walk. Three minutes tops.,",129.8,132.14,3,food_court,129,132,3
+194,194,26,Q1_1.1,46,"The water fountain is just a two minute walk. Three minutes tops.,",129.8,132.14,3,food_court,129,132,3
+204,204,26,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+215,215,26,Q1_1.1,53,"I am very thirsty and cranky.,",156.42,159.18,3,food_court,156,159,3
+226,226,26,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+242,242,26,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+251,251,26,Q1_1.1,63,"Yeah, they are remodeling. But Gino’s Pizzeria has these calzones-,",170.76,173.52,3,food_court,170,173,3
+273,273,26,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+290,290,26,Q2_1.1,4,"No, I'm sorry. I'm sorry, Lucy. It's been a crazy day. Like you said, shopping for a wedding dress…,",184.6,192.16,,,184,192,8
+298,298,26,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+305,305,26,Q2_1.1,9,"Yes. Yes, she is on the way. Well, no, she's not on the way.,",212.22,217.94,5,steve_skinny,212,217,5
+331,331,26,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+354,354,26,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+367,367,26,Q2_1.1,36,"Lift your arms up. You cut a very lean silhouette.,",270.74,273.38,5,steve_skinny,270,273,3
+383,383,26,Q2_1.1,46,"Oh, you're so sweet. I love this song.,",298.92,304.94,6,emergency_song,298,304,6
+390,390,26,Q2_1.1,48,"What song?,",305.76,306.24,6,emergency_song,305,306,1
+409,409,26,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+435,435,26,Q2_1.1,55,"He got really agitated when I wouldn't give him water, and he used foul language and, well, and now he wants me to get a wedding dress for him.,",342.18,348.98,7,calls_security,342,348,6
+442,442,26,Q2_1.1,57,"Also, have you had any luck finding that dog that's loose in the mall?,",354.28,356.88,7,calls_security,354,356,2
+462,462,26,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+483,483,26,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+494,494,26,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+500,500,26,Q3_1.1,22,"Yeah, yeah, yeah, yeah.,",390.9,393.12,,,390,393,3
+509,509,26,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+518,518,26,Q3_1.1,28,"I get it. No I get it. I do. I get it. You know what? Here? Have a water.,",416.58,421.74,9,resolution,416,421,5
+521,521,26,Q3_1.1,30,"Really?,",423.36,423.6,9,resolution,423,423,0
+522,522,26,Q3_1.1,30,"Really?,",423.36,423.6,9,resolution,423,423,0
+543,543,26,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+550,550,26,Q3_1.1,44,"Exactly. Yeah.,",456.74,457.02,9,resolution,456,457,1
+553,553,26,Q3_1.1,48,"Oh, I'm sorry. We've got to wait for security. It's policy.,",465.82,469.34,9,resolution,465,469,4
+554,554,26,Q3_1.1,48,"Oh, I'm sorry. We've got to wait for security. It's policy.,",465.82,469.34,9,resolution,465,469,4
+563,563,26,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+590,590,26,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+611,611,26,Q3_1.1,58,"Right. Okay. Lucy, I'm thinking of telling you a story while we're waiting for security.",497.94,507.68,10,resolution,497,507,10
+48,48,27,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+111,111,27,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+122,122,27,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+195,195,27,Q1_1.1,46,"The water fountain is just a two minute walk. Three minutes tops.,",129.8,132.14,3,food_court,129,132,3
+210,210,27,Q1_1.1,50,"Well, you know your stuff. Glad to know you've been to our sister locations.,",142.38,146.46,3,food_court,142,146,4
+228,228,27,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+275,275,27,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+333,333,27,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+356,356,27,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+411,411,27,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+451,451,27,Q2_1.1,58,"Oh, my gosh. He’s stealing the water.",357.46,358.74,8,attack,357,358,1
+464,464,27,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+485,485,27,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+495,495,27,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+537,537,27,Q3_1.1,40,"Thank you. I'm sorry I didn't earlier. They us this policy of how many minutes and how big an  order until we give out the water…,",446.56,453.94,9,resolution,446,453,7
+564,564,27,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+591,591,27,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+33,33,28,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+49,49,28,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+149,149,28,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+276,276,28,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+312,312,28,Q2_1.1,17,"The wedding dress is for me.,",228.9,231.96,5,steve_skinny,228,231,3
+472,472,28,Q3_1.1,10,"Okay, look, that's fine. That's fine. Look, I will just sit here and wait for security. I'll just sit right here on the floor.,",369.44,375.78,8,attack,369,375,6
+12,12,29,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+83,83,29,Q1_1.1,8,"Hello. Welcome to Bridal Innovations. Don't worry. That gets knocked over all the time.,",52.16,58.84,2,regular_convo,52,58,6
+112,112,29,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+123,123,29,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+150,150,29,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+190,190,29,Q1_1.1,44,"Sunglass kiosk… Don't you have some water and snacks here in the store?,",125.28,129.64,3,food_court,125,129,4
+206,206,29,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+229,229,29,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+244,244,29,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+277,277,29,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+300,300,29,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+334,334,29,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+357,357,29,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+392,392,29,Q2_1.1,48,"What song?,",305.76,306.24,6,emergency_song,305,306,1
+412,412,29,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+430,430,29,Q2_1.1,53,"I don't know. He seems. I don't know, like he might be homeless or something. I mean, I hate to judge, but we're supposed to call if we see someone homeless.,",331.92,339.54,7,calls_security,331,339,8
+437,437,29,Q2_1.1,55,"He got really agitated when I wouldn't give him water, and he used foul language and, well, and now he wants me to get a wedding dress for him.,",342.18,348.98,7,calls_security,342,348,6
+444,444,29,Q2_1.1,57,"Also, have you had any luck finding that dog that's loose in the mall?,",354.28,356.88,7,calls_security,354,356,2
+454,454,29,Q3_1.1,2,"Let go!,",361.72,362.3,8,attack,361,362,1
+470,470,29,Q3_1.1,8,"I have mace.,",368.66,369.4,8,attack,368,369,1
+486,486,29,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+496,496,29,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+511,511,29,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+545,545,29,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+592,592,29,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+13,13,30,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+34,34,30,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+50,50,30,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+64,64,30,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+74,74,30,Q1_1.1,6,"Oh, I cannot wait to watch the game with you tonight. No, I know we're gonna win. No, I know it. I can make us those Frito chili nachos you like. Yeah, I know you like that.,",29.44,41.38,1,conversation_bf,29,47,18
+80,80,30,Q1_1.1,7,"Oh, I gotta go. Customer. I love you. No, I love you more. No, I love you more.,",42.28,48.32,1,conversation_bf,42,48,6
+96,96,30,Q1_1.1,15,"I'm just gonna sit down.,",72.32,73.84,2,regular_convo,72,73,1
+124,124,30,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+151,151,30,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+172,172,30,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+181,181,30,Q1_1.1,42,"You'll have to pardon our dust, but just beyond that Sunglass kiosk-,",122.06,124.98,3,food_court,122,124,2
+196,196,30,Q1_1.1,46,"The water fountain is just a two minute walk. Three minutes tops.,",129.8,132.14,3,food_court,129,132,3
+207,207,30,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+211,211,30,Q1_1.1,51,"It's true, we do have some items, but our policy is that's for when customers have been here a longer time, are a larger party, and I sense people are getting thirsty and cranky.,",147,155.46,3,food_court,147,155,8
+219,219,30,Q1_1.1,55,"Yes, but our policy is it's for people who have been here a longer time. The water fountains-,",159.32,163.96,3,food_court,159,163,4
+245,245,30,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+253,253,30,Q1_1.1,63,"Yeah, they are remodeling. But Gino’s Pizzeria has these calzones-,",170.76,173.52,3,food_court,170,173,3
+278,278,30,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+285,285,30,Q2_1.1,2,"Sir, I'm sorry. I'm gonna have to ask you to leave.,",181.5,183.56,,,181,183,2
+301,301,30,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+335,335,30,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+358,358,30,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+369,369,30,Q2_1.1,36,"Lift your arms up. You cut a very lean silhouette.,",270.74,273.38,5,steve_skinny,270,273,3
+377,377,30,Q2_1.1,44,"Just anything you think would look good on me. I trust your taste.,",295.26,298.72,,,295,298,3
+385,385,30,Q2_1.1,46,"Oh, you're so sweet. I love this song.,",298.92,304.94,6,emergency_song,298,304,6
+393,393,30,Q2_1.1,48,"What song?,",305.76,306.24,6,emergency_song,305,306,1
+413,413,30,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+425,425,30,Q2_1.1,52,"Hello? Security. This is Lucy again in Bridal Innovations. There's a customer here.,",326.7,331.28,7,calls_security,326,331,5
+431,431,30,Q2_1.1,53,"I don't know. He seems. I don't know, like he might be homeless or something. I mean, I hate to judge, but we're supposed to call if we see someone homeless.,",331.92,339.54,7,calls_security,331,339,8
+433,433,30,Q2_1.1,54,"He's here in the store now.,",340.58,342.18,7,calls_security,340,342,2
+438,438,30,Q2_1.1,55,"He got really agitated when I wouldn't give him water, and he used foul language and, well, and now he wants me to get a wedding dress for him.,",342.18,348.98,7,calls_security,342,348,6
+439,439,30,Q2_1.1,56,"For him, which I've done before, but it is still unusual. I just don't know.,",349.14,353.46,7,calls_security,349,353,4
+445,445,30,Q2_1.1,57,"Also, have you had any luck finding that dog that's loose in the mall?,",354.28,356.88,7,calls_security,354,356,2
+452,452,30,Q2_1.1,58,"Oh, my gosh. He’s stealing the water.",357.46,358.74,8,attack,357,358,1
+465,465,30,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+473,473,30,Q3_1.1,12,"No, do not sit on the floor, sit on the bench.,",376.12,378.08,8,attack,376,378,2
+476,476,30,Q3_1.1,16,"No, I'm not being nice. It just looks bad for customers walking by to see a man sitting on the floor.,",379.64,384.82,8,attack,379,384,5
+497,497,30,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+512,512,30,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+520,520,30,Q3_1.1,28,"I get it. No I get it. I do. I get it. You know what? Here? Have a water.,",416.58,421.74,9,resolution,416,421,5
+531,531,30,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+538,538,30,Q3_1.1,40,"Thank you. I'm sorry I didn't earlier. They us this policy of how many minutes and how big an  order until we give out the water…,",446.56,453.94,9,resolution,446,453,7
+546,546,30,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+552,552,30,Q3_1.1,44,"Exactly. Yeah.,",456.74,457.02,9,resolution,456,457,1
+555,555,30,Q3_1.1,48,"Oh, I'm sorry. We've got to wait for security. It's policy.,",465.82,469.34,9,resolution,465,469,4
+565,565,30,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+570,570,30,Q3_1.1,52,"They'll show up. Don't be silly.,",479.52,480.74,10,resolution,479,480,1
+593,593,30,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+604,604,30,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+14,14,31,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+35,35,31,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+51,51,31,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+65,65,31,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+75,75,31,Q1_1.1,6,"Oh, I cannot wait to watch the game with you tonight. No, I know we're gonna win. No, I know it. I can make us those Frito chili nachos you like. Yeah, I know you like that.,",29.44,41.38,1,conversation_bf,29,48,19
+90,90,31,Q1_1.1,11,"Browsing?,",64.64,65.08,2,regular_convo,64,65,1
+101,101,31,Q1_1.1,24,"My daughter,",90.44,91.2,2,regular_convo,90,91,1
+113,113,31,Q1_1.1,28,"Yes, she's just. She is uh,",94.2,96.02,2,regular_convo,94,96,2
+125,125,31,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+152,152,31,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+173,173,31,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+182,182,31,Q1_1.1,42,"You'll have to pardon our dust, but just beyond that Sunglass kiosk-,",122.06,124.98,3,food_court,122,124,2
+191,191,31,Q1_1.1,44,"Sunglass kiosk… Don't you have some water and snacks here in the store?,",125.28,129.64,3,food_court,125,129,4
+208,208,31,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+217,217,31,Q1_1.1,53,"I am very thirsty and cranky.,",156.42,159.18,3,food_court,156,159,3
+220,220,31,Q1_1.1,55,"Yes, but our policy is it's for people who have been here a longer time. The water fountains-,",159.32,163.96,3,food_court,159,163,4
+246,246,31,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+279,279,31,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+291,291,31,Q2_1.1,4,"No, I'm sorry. I'm sorry, Lucy. It's been a crazy day. Like you said, shopping for a wedding dress…,",184.6,192.16,,,184,192,8
+302,302,31,Q2_1.1,5,"I’ve been to all these locations. So much stress. My blood sugar just. I'm sorry. I'm sorry, Lucy.,",192.88,202.28,5,steve_skinny,192,202,10
+307,307,31,Q2_1.1,9,"Yes. Yes, she is on the way. Well, no, she's not on the way.,",212.22,217.94,5,steve_skinny,212,217,5
+313,313,31,Q2_1.1,17,"The wedding dress is for me.,",228.9,231.96,5,steve_skinny,228,231,3
+318,318,31,Q2_1.1,21,"Yes. Yes, I am the bride. I don't know if that's against your policy.,",233.12,237.9,5,steve_skinny,233,237,4
+320,320,31,Q2_1.1,26,"Well, that's the thing. I just don't know. There's so many options, Lucy.,",250.76,254.16,5,steve_skinny,250,254,4
+336,336,31,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+359,359,31,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+375,375,31,Q2_1.1,39,"I like that. This makes me very happy. Lucy, I am so glad.,",282.9,288.06,,,282,288,6
+378,378,31,Q2_1.1,44,"Just anything you think would look good on me. I trust your taste.,",295.26,298.72,,,295,298,3
+394,394,31,Q2_1.1,48,"What song?,",305.76,306.24,6,emergency_song,305,306,1
+414,414,31,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+513,513,31,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+523,523,31,Q3_1.1,34,"Thank you. Thank you.,",425.32,427.78,9,resolution,425,427,2
+532,532,31,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+547,547,31,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+566,566,31,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+571,571,31,Q3_1.1,52,"They'll show up. Don't be silly.,",479.52,480.74,10,resolution,479,480,1
+594,594,31,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+605,605,31,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+612,612,31,Q3_1.1,58,"Right. Okay. Lucy, I'm thinking of telling you a story while we're waiting for security.",497.94,507.68,10,resolution,497,507,10
+15,15,32,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+36,36,32,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+66,66,32,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+153,153,32,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+280,280,32,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+337,337,32,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+360,360,32,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+415,415,32,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+498,498,32,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+595,595,32,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+606,606,32,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+67,67,33,Q1_1.1,5,"I called security, but they haven't. No, no. You're terrible.,",22.04,28.3,1,conversation_bf,22,28,6
+174,174,33,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+183,183,33,Q1_1.1,42,"You'll have to pardon our dust, but just beyond that Sunglass kiosk-,",122.06,124.98,3,food_court,122,124,2
+52,52,34,Q1_1.1,4,"Poor thing. He looks hungry. No, no. Dogs aren't allowed in  the mall unless it's a seeing eye dog.,",16.28,21.08,1,dog,16,21,5
+126,126,34,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+154,154,34,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+231,231,34,Q1_1.1,59,"The food court has shakes and sodas, and the food is delicious. I recommend the calzones,",166.28,169.32,3,food_court,166,169,3
+281,281,34,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+338,338,34,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+361,361,34,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+370,370,34,Q2_1.1,36,"Lift your arms up. You cut a very lean silhouette.,",270.74,273.38,5,steve_skinny,270,273,3
+416,416,34,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+446,446,34,Q2_1.1,57,"Also, have you had any luck finding that dog that's loose in the mall?,",354.28,356.88,7,calls_security,354,356,2
+466,466,34,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+596,596,34,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+16,16,35,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+155,155,35,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+209,209,35,Q1_1.1,48,"Lucy, I don't mean to be contrary, but I have been to other locations of Bridal Innovations, and they have all had bottles of water and energy bars under the counter for customers.,",132.14,142.38,3,food_court,132,142,10
+254,254,35,Q1_1.1,63,"Yeah, they are remodeling. But Gino’s Pizzeria has these calzones-,",170.76,173.52,3,food_court,170,173,3
+282,282,35,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+362,362,35,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+467,467,35,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+533,533,35,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+567,567,35,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+607,607,35,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+613,613,35,Q3_1.1,58,"Right. Okay. Lucy, I'm thinking of telling you a story while we're waiting for security.",497.94,507.68,10,resolution,497,507,10
+17,17,36,Q1_1.1,2,"Oh, my God. The shift won't end. Deborah never showed up. I can't reach Mr. Haney, so  I have to work all of it.,",2.3599999999999985,10.18,1,conversation_bf,2,10,8
+37,37,36,Q1_1.1,3,"And there's a dog loose in the mall. Do you hear that?  Hold on, I’ll hold up the phone.,",10.64,14.94,1,dog,10,14,4
+81,81,36,Q1_1.1,7,"Oh, I gotta go. Customer. I love you. No, I love you more. No, I love you more.,",42.28,48.32,1,conversation_bf,42,48,6
+127,127,36,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+156,156,36,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+192,192,36,Q1_1.1,44,"Sunglass kiosk… Don't you have some water and snacks here in the store?,",125.28,129.64,3,food_court,125,129,4
+230,230,36,Q1_1.1,57,"Those water fountains are not working.,",164.1,166.12,3,food_court,164,166,2
+247,247,36,Q1_1.1,61,"Over past that rubble.,",169.6,170.66,3,food_court,169,170,1
+283,283,36,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+339,339,36,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+363,363,36,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+371,371,36,Q2_1.1,36,"Lift your arms up. You cut a very lean silhouette.,",270.74,273.38,5,steve_skinny,270,273,3
+417,417,36,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+534,534,36,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+548,548,36,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+597,597,36,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+76,76,37,Q1_1.1,6,"Oh, I cannot wait to watch the game with you tonight. No, I know we're gonna win. No, I know it. I can make us those Frito chili nachos you like. Yeah, I know you like that.,",29.44,41.38,1,conversation_bf,29,49,20
+91,91,37,Q1_1.1,11,"Browsing?,",64.64,65.08,2,regular_convo,64,65,1
+102,102,37,Q1_1.1,24,"My daughter,",90.44,91.2,2,regular_convo,90,91,1
+128,128,37,Q1_1.1,33,"Lucy, I would love some water.,",106.98,110.16,3,food_court,106,110,4
+157,157,37,Q1_1.1,38,"The food court? You mean that pile of-,",118.5,120.76,3,food_court,118,120,2
+175,175,37,Q1_1.1,41,"they’re remodeling part of it.,",120.88,121.9,3,food_court,120,121,1
+218,218,37,Q1_1.1,53,"I am very thirsty and cranky.,",156.42,159.18,3,food_court,156,159,3
+284,284,37,Q1_1.1,65,"Shut up. Shut up, you fucking robot. Shut up, you fucking worthless corporate drone.",173.54,178.72,4,calls_robot,173,178,5
+314,314,37,Q2_1.1,17,"The wedding dress is for me.,",228.9,231.96,5,steve_skinny,228,231,3
+340,340,37,Q2_1.1,32,"You are so thin. I'm so jealous. You look like a runner. Are you a runner?,",261.82,267.24,5,steve_skinny,261,267,6
+364,364,37,Q2_1.1,34,"Well past six years or so.,",267.82,270.7,5,steve_skinny,267,270,3
+374,374,37,Q2_1.1,37,"So I'm going to recommend just a little lace in the shoulder and some structure around  the waist to enhance the hourglass effect. Not like a Civil War cotillion or anything, but just a little.,",273.48,282.68,5,steve_skinny,273,282,9
+418,418,37,Q2_1.1,50,"I mean, it must be number one on the radio because that's all they play. Emergency.  They play it on a loop or something. I'm glad I like it or I would be miserable.,",306.52,316.52,6,emergency_song,306,316,10
+432,432,37,Q2_1.1,53,"I don't know. He seems. I don't know, like he might be homeless or something. I mean, I hate to judge, but we're supposed to call if we see someone homeless.,",331.92,339.54,7,calls_security,331,339,8
+453,453,37,Q2_1.1,58,"Oh, my gosh. He’s stealing the water.",357.46,358.74,8,attack,357,358,1
+468,468,37,Q3_1.1,4,"You drank all the water. You have energy bars in your pants, they are falling out of you.,",362.3,366.74,8,attack,362,366,4
+487,487,37,Q3_1.1,18,"Nobody's walking by.,",385.84,386.7,8,attack,385,386,1
+499,499,37,Q3_1.1,20,"Because the remodel. It cut the foot traffic. All the more reason.,",387,390.54,8,food_court,387,390,3
+514,514,37,Q3_1.1,26,"It's just, I’m so thirsty. And all of this is...you don't get it.,",410.26,416.1,9,resolution,410,416,6
+535,535,37,Q3_1.1,38,"Oh, my gosh. Thank you so much. Lucy, you're one of the good ones Lucy.,",436.82,446.26,9,resolution,436,446,10
+549,549,37,Q3_1.1,42,"No, I get it. I understand you. You got to follow the policy.,",454.08,456.54,9,resolution,454,456,2
+568,568,37,Q3_1.1,50,"Right, it’s policy. But what if they don't show up?,",470.68,478.88,10,resolution,470,478,8
+572,572,37,Q3_1.1,52,"They'll show up. Don't be silly.,",479.52,480.74,10,resolution,479,480,1
+598,598,37,Q3_1.1,54,"What if they don't? Would you make me stay here until I die of thirst and I'm rotting corpse on your nice bench.,",480.9,487.72,10,resolution,480,487,7
+608,608,37,Q3_1.1,56,"It's so funny, I forgot to laugh. Weeks? No, people would notice if… it's not gonna be weeks. And I just gave you a water. Steve, how can you be thirsty?",487.72,497.06,10,resolution,487,497,10
+614,614,37,Q3_1.1,58,"Right. Okay. Lucy, I'm thinking of telling you a story while we're waiting for security.",497.94,507.68,10,resolution,497,507,10
