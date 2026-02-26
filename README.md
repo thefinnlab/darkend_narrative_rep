@@ -1,7 +1,7 @@
-# darkend_narrative_rep
+# Darkend Narrative Repository
 This repository contains the code necessary to reproduce the figures from the manuscript:
 
-📄 Narrative ‘Twist’ Shifts Within-Individual Neural Representations of Dissociable Story Features
+📄 Narrative ‘Twist’ Shifts Within-Individual Neural Representations of Dissociable Story Features. PNAS (in press)
 📌 Available on bioRxiv: DOI: 10.1101/2025.01.13.632631
 
 ## Requirements
@@ -15,7 +15,7 @@ All **code** subfolders correspond to a specific figure and set of analyses. Eac
 
 We provide the necessary `.npy` and `.csv` files required to run the models and generate the corresponding figures. Additional behavioral files, such as character event data, can be found in their respective subfolders (e.g., the `characters` subfolder).
 
-The **original raw MRI data** will be made publicly available on **OpenNeuro** upon publication.
+The **original raw MRI data** are available on **OpenNeuro**: https://openneuro.org/datasets/ds007407.
 
 If you need any additional information that is not included in this code directory, please feel free to reach out to **Clara Sava-Segal** at 📧 [csava.gr@dartmouth.edu](mailto:csava.gr@dartmouth.edu).
 
